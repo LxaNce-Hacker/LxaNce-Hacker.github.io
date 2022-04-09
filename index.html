@@ -64,6 +64,39 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     <a style="color:green;"> This site is under repairing please retry to open after some days...But Something is availble for U😊<br><br>
    <!-- <img src="/w3images/man_smoke.jpg" alt="boy" class="w3-image" width="992" height="1108"> -->
   </header>
+    
+    
+    <!--Location Coeded BY LxaNce -->
+    <html>
+<body>
+
+<p>Click the button to get your coordinates.</p>
+
+<button onclick="getLocation()">Try It</button>
+
+<p id="demo"></p>
+
+<script>
+var x = document.getElementById("demo");
+
+function getLocation() {
+  if (navigator.geolocation) {
+    navigator.geolocation.getCurrentPosition(showPosition);
+  } else { 
+    x.innerHTML = "Geolocation is not supported by this browser.";
+  }
+}
+
+function showPosition(position) {
+  x.innerHTML = "Latitude: " + position.coords.latitude + 
+  "<br>Longitude: " + position.coords.longitude;
+}
+</script>
+
+</body>
+</html>
+
+    <!-- Plateforms to learn something new -->
 <a href="https://www.indiabix.com/">All Subjects!<br>
 <a href="https://www.javatpoint.com/">All About Languages!<br>
 <a href="https://www.guru99.com/how-to-hack-wireless-networks.html">All About Hacks!<br>
