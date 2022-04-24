@@ -199,7 +199,7 @@ function showPosition(position) {
     
     <!-- Testimonials -->
     <h3 class="w3-padding-24 w3-text-light-grey">My Reputation</h3>  
-    <img src="https://ibb.co/6n2hcn2" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
+    <a href="https://imgbb.com/"><img src="https://i.ibb.co/PmRpsmR/Apkloo-Logo.webp" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
     <p><span class="w3-large w3-margin-right">Ritik.</span> Student Of PSIT.</p>
     <p>Prince saved us from a web disaster.</p><br>
     
