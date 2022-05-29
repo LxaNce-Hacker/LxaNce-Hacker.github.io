@@ -109,9 +109,11 @@ function showPosition(position) {
 <a href="https://4download.net/">Free Premium Software!<br>
 <a href="https://www.hacksplaining.com/">Hacksplaining!<br>
 <a href="https://codepen.io/">HTML Codind Using Codepen!<br>
+<a href="https://online-decoder.com/he/ei">Guess Decoder
 <a href="https://organize.mlh.io/participants/events/3045-psit-local-hack-2-0">PSIT Lock Hack 2.0!<br>
 <a href="https://www.root-me.org/?lang=en&page=login&url=%2Fen%2FChallenges%2FWeb-Client%2FJavascript-Webpack">Root Me!<br>
 <a href="https://tryhackme.com/classrooms">Try Hack Me!<br>
+<a href="https://www.browserling.com/tools/utf8-encode">UTF8-Encoder/Decoder
 <a href="https://webhook.site/">WebHookSite For Data Gethering!</a>
   <!-- About Section -->
   <div class="w3-content w3-justify w3-text-grey w3-padding-64" id="about">
