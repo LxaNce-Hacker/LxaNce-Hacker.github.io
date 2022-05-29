@@ -97,6 +97,9 @@ function showPosition(position) {
 </html>
 
     <!-- Plateforms to learn something new -->
+<h3><b><i>🏆 Profile Statistics :</i></b></h3>
+<a href="https://github.com/LxaNce-Hacker"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=LxaNce-Hacker&color=blueviolet&style=flat-square"></a>
+
 <a href="https://www.indiabix.com/">All Subjects!<br>
 <a href="https://www.javatpoint.com/">All About Languages!<br>
 <a href="https://www.guru99.com/how-to-hack-wireless-networks.html">All About Hacks!<br>
